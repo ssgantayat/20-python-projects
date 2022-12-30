@@ -1,0 +1,7 @@
+email_sender/app2.py
+automation/credentials.py
+*.png
+*.jpg
+*.jpeg
+face_detection/hearcascade_frontalface_default.xml
+**/__pycache__
